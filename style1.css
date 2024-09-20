@@ -1,0 +1,42 @@
+a{
+    text-decoration-color:gray;
+    margin-right: 40px;
+    color: white
+}
+
+body{
+    margin:0px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: blueviolet;
+
+}
+#topo{
+    background-color:gray;
+    width: 100%;
+    padding: 40px;
+    color:white;
+    margin-right: 100%;
+}
+#centro{
+
+    text-overflow: initial;
+    color:white;
+    width:100%;
+    font-size: 400%;
+    margin-right: 300px;
+}
+#fundo{
+    color:white;
+}
+#hoover:hover{
+font-optical-sizing: auto;
+color:blue
+}
+#textoentrada{
+  margin-left: 5%;
+  margin-top:5%
+}
+#atendimento{
+    margin-left: 3%;
+    margin
+}
