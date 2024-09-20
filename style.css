@@ -1,0 +1,27 @@
+body{
+    margin:0px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: blueviolet;
+}
+#topo{
+    background-color:gray;
+    width: 100%;
+    padding: 40px;
+    color:white;
+    margin-right: 40px
+}
+#centro{
+
+    text-overflow: initial;
+    color:white;
+    width:100%;
+    font-size: 400%;
+    margin-right: 300px;
+}
+#fundo{
+    ;
+}
+#hoover:hover{
+
+color:blue
+}
